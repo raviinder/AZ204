@@ -1,4 +1,4 @@
-# AZ-203: Develop Azure Infrastructure as a Service Compute Solutions (10-15%)
+# AZ-204: Develop Azure Compute Solutions  (25-30%)
 
 ## Implement solutions that use virtual machines (VM)
 * For the disks, focus on [encryption basics and how key vault is related](https://docs.microsoft.com/en-us/azure/security/azure-security-disk-encryption-windows)
