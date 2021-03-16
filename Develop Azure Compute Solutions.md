@@ -15,7 +15,7 @@
 * Configure Azure Disk Encryption for VMs
   * [Encrypt virtual disks on a Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/encrypt-disks)
   * [How to encrypt a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/encrypt-disks)
-  *
+ 
 ## Create containerized solutions
 * Know how to use the [CLI at least for basic management of ACR](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-azure-cli)
 * [Create an Azure Container Registry, create, prep, and push images to it](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr)
@@ -24,6 +24,7 @@
   * [Tutorial: Create a container image for deployment to Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-app)
 * Publish an image to the Azure Container Registry
   * [Tutorial: Deploy an Azure container registry and push a container image](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr)
-* Run containers by using Azure Container Instance or AKS
+* Run containers by using Azure Container Instance
   * [Tutorial: Deploy a container application to Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-deploy-app)
-  * [Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough-portal) 
+
+## Create Azure App Service Web Apps
