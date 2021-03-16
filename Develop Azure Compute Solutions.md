@@ -1,7 +1,6 @@
 # AZ-204: Develop Azure Compute Solutions  (25-30%)
 
 ## Implement solutions that use virtual machines (VM)
-* For the disks, focus on [encryption basics and how key vault is related](https://docs.microsoft.com/en-us/azure/security/azure-security-disk-encryption-windows)
 * creating ARM templates - review the ARM templates in the [quickstart templates](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-linux)
 * Provision VMs
   * [Quickstart: Create a Windows virtual machine in Azure with PowerShell](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell)
@@ -12,9 +11,6 @@
 * Create ARM templates 
   * [Create Azure Resource Manager template](https://docs.microsoft.com/en-us/azure/azure-resource-manager/how-to-create-template)
   * [Quickstart: Create Azure Resource Manager templates by using Visual Studio Code](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-visual-studio-code?tabs=CLI)
-* Configure Azure Disk Encryption for VMs
-  * [Encrypt virtual disks on a Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/encrypt-disks)
-  * [How to encrypt a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/encrypt-disks)
  
 ## Create containerized solutions
 * Know how to use the [CLI at least for basic management of ACR](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-azure-cli)
