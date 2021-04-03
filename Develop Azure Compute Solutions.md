@@ -47,3 +47,8 @@
     * [Create your first durable function in C#](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-create-first-csharp)
 * Create Azure Function apps by using Visual Studio
     * [Create your first function using Visual Studio](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
+   
+* Custom Function Handlers
+    * [Create custom handlers using Visual Studio](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-other?tabs=go%2Cwindows)
+    * [Create custom handlers with live slack example] (https://acloudguru.com/blog/engineering/how-to-build-a-serverless-app-using-go-and-azure-functions)
+    
